@@ -45,6 +45,10 @@ body {
   margin: 0;
 }
 
+#nav a {
+    color: black;
+}
+
 #content {
   background: #738F69;
   padding: 0;
