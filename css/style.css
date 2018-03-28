@@ -37,6 +37,7 @@ body {
   height: 45px;
   border-bottom-style: dashed;
   border-bottom-color: white;
+  border-bottom-width: 6px;
 }
 
 #nav li {
